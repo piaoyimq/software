@@ -1,0 +1,18 @@
+[$Version]
+update_info=kickerrc.upd:kde_3_1_sizeChanges
+
+[Applet_1]
+WidthForHeightHint=74
+
+[Applet_3]
+WidthForHeightHint=30
+
+[Applet_5]
+WidthForHeightHint=60
+
+[General]
+CustomSize=54
+Size=4
+
+[menus]
+RecentAppsStat=7 1562899753 Verigy/verigy-smartest-offline.desktop,6 1562894280 Verigy/kill-smartest.desktop,1 1562882314 System Settings/redhat-config-xfree86.desktop

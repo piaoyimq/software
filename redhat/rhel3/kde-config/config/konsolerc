@@ -1,0 +1,47 @@
+[$Version]
+update_info=konsole.upd:kde2.2/r1,konsole.upd:kde3.0/r1
+
+[Desktop Entry]
+ActiveSession=0
+AllowResize=true
+BlinkingCursor=false
+CtrlDrag=false
+CutToBeginningOfLine=false
+DefaultSession=shell.desktop
+Fullscreen=true
+Height 768=768
+LineSpacing=0
+SilenceSeconds=10
+WarnQuit=true
+Width 1024=1024
+XonXoff=false
+class=konsole-mainwindow#1
+has frame=true
+history=1000
+historyenabled=true
+keytab=default
+schema=Linux.schema
+wordseps=:@-./_~
+
+[Shortcuts]
+file_print=none
+fullscreen=F11
+new_session=Ctrl+Shift+T;Ctrl+Shift+N
+switch_to_session_1=Alt+1
+switch_to_session_2=Alt+2
+switch_to_session_3=Alt+3
+switch_to_session_4=Alt+4
+switch_to_session_5=Alt+5
+switch_to_session_6=Alt+6
+switch_to_session_7=Alt+7
+switch_to_session_8=Alt+8
+switch_to_session_9=Alt+9
+
+[konsole-mainwindow#1 Toolbar style]
+Hidden=false
+IconSize=22
+IconText=IconOnly
+Index=0
+NewLine=false
+Offset=-1
+Position=Top
